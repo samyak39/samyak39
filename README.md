@@ -25,8 +25,13 @@ I build AI-powered systems and scalable Python solutions. My work spans the LLM 
 ### 🛠️ Featured Projects
 
 - 🌐 **[Portfolio Website](https://github.com/samyak39/samyak39.github.io)** — my personal site, built from scratch with pure HTML/CSS/JS — featuring two playable games ported from my Python projects, an interactive AI-core reactor, a working contact form, and live stats. **[See it live →](https://samyak39.github.io)**
+
+- **[Shailanchal Graphics](https://shailanchal-graphics.vercel.app)** — Production website for a 30-year-old design & printing business. Next.js 14, bilingual (Hindi/English), quote pipeline with email + WhatsApp. Deployed on Vercel.
+
 - 🤖 **LLM Agent Evaluation Pipeline** — end-to-end evaluation of LLM coding agents using historical GitHub Pull Requests and containerized execution (dissertation, in progress)
+
 - 📈 **Sales Prediction Model** — ML model forecasting future sales from historical data (Scikit-Learn, EDA, preprocessing)
+
 - 🎮 **[Bounce Ball Game](https://github.com/samyak39/SamBounceGame)** — interactive desktop game with real-time collision detection and event-driven mechanics (Python, Tkinter)
 
 ### 📊 LeetCode Stats
